@@ -3,7 +3,7 @@
 | Name                                          | Description                                                                   | Author(s)   |
 |-----------------------------------------------|-------------------------------------------------------------------------------|-------------|
 | [Graph connecting](graph_connecting.ipynb)    | Determining how to connect bike stations on a graph simply by using distance. | Max Halford |
-| [Behavior clustering](graph_connecting.ipynb) | Clustering bike stations based on how empty/full along time.                  | Max Halford |
+| [Behavior clustering](behavior_clustering.ipynb) | Clustering bike stations based on how empty/full along time.                  | Max Halford |
 
 ## Installation
 
