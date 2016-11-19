@@ -7,7 +7,9 @@ Ordered by creation.
 | [Graph connecting](graph_connecting.ipynb)    | Determining how to connect bike stations on a graph simply by using distance. | Max Halford |
 | [Behavior clustering](behavior_clustering.ipynb) | Clustering bike stations based on how empty/full along time.                  | Max Halford |
 | [Challenge 2016 mean](challenge_2016_mean.ipynb)    | A simple submission to the 2016 challenge where the average number of bikes per station per hour was taken into account. | Max Halford |
-| [Challenge 2016 HAM](challenge_2016_ham.ipynb) | A attempt at going HAM on the 2016 challenge.                  | Max Halford |
+| [Challenge 2016 step by step](challenge_2016_step_by_step.ipynb) | A attempt at predicting the next number of bikes step by step.                  | Max Halford |
+
+The notebooks prepended with `challenge` are the ones Max Halford made during the OpenBikes Challenge of 2016; the notebooks suppose there exists a folder called `challenge_data/`, containing data from the [challenge website](http://challenge.openbikes.co/).
 
 ## Installation
 
