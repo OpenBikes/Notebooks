@@ -14,7 +14,9 @@ The notebooks prepended with `challenge_2016` are the ones Max Halford made duri
 
 ## Installation
 
-To do.
+```sh
+$ pip install -r requirements.txt
+```
 
 ## Ideas
 
