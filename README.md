@@ -1,5 +1,11 @@
 # Notebooks
 
+## Installation
+
+```sh
+$ pip install -r requirements.txt
+```
+
 ## Ideas
 
 - http://toddwschneider.com/posts/a-tale-of-twenty-two-million-citi-bikes-analyzing-the-nyc-bike-share-system/
